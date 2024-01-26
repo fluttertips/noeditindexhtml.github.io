@@ -1,0 +1,180 @@
+[
+    {
+        "id": "project1",
+        "demolink": "http://ehaat.42web.io",
+        "title": "http://ehaat.42web.io",
+        "quote": "A Web-based E-commerce Project",
+        "image": "/Images/project-6-s1.png",
+        "modelimage": "/Images/project-6-s1.png",
+        "shortdescription": "MultiVendor web based ecommerce platform",
+        "description": "This is a web-based E-commerce project with user, seller, and admin functionalities. It is built using HTML, CSS, JavaScript, PHP, and MySQL. The project includes features such as user authentication, chat support, and the ability to add products to the cart. Data is fetched through a public API.",
+        "githubLink": "https://github.com/niranjandahal/Ehaat_web-B2C_model",
+        "videoLink": "W0vN6v4iiOI",
+        "screenshots": [
+            "/Images/project-6-s1.png",
+            "/Images/project-6-s2.png",
+            "/Images/project-6-s3.png",
+            "/Images/project-6-s4.png",
+            "/Images/project-6-s5.png",
+            "/Images/project-6-s6.png",
+            "/Images/project-6-s7.png",
+            "/Images/project-6-s8.png",
+            "/Images/project-6-s9.png",
+            "/Images/project-6-s10.png",
+            "/Images/project-6-s11.png",
+            "/Images/project-6-s12.png"
+        ],
+        "features": [
+            "User login/registration",
+            "Chat support",
+            "Add to cart features locally",
+            "Product details page",
+            "Order product",
+            "View pending and approved orders",
+            "Cancel pending orders",
+            "Verify the delivered product",
+            "Seller registration with OTP verification",
+            "Seller login",
+            "Seller dashboard",
+            "Add multiple products",
+            "View orders made by users for their seller products",
+            "Approve or reject orders made by users",
+            "Once approved, sellers get users' details and location for product delivery",
+            "View to-be-delivered products",
+            "Limited number of admins only",
+            "Admin dashboard",
+            "Approve or reject legit products added by sellers",
+            "Can permanently remove products from the site",
+            "Answer chat support queries by users"
+        ]
+    },
+    {
+        "id": "project2",
+        "demolink": "",
+        "title": "MovieHunt Application",
+        "quote": "hunt movie and series",
+        "image": "/Images/project-one.png",
+        "modelimage": "/Images/project-one-model-images.png",
+        "shortdescription": "explore the trends movie/series",
+        "description": "Movie Application - Explore, Discover, and Enjoy Your Favorite Movies and TV Series. Know about trending movies/series with full description, rating, review, and recommendations for other similar movies/series.",
+        "githubLink": "https://github.com/niranjandahal/MovieApp_Flutter",
+        "videoLink": "jDezwrUpyuI",
+        "screenshots": [
+            "/Images/project-one-s1.jpg",
+            "/Images/project-one-s2.jpg",
+            "/Images/project-one-s3.jpg",
+            "/Images/project-one-s4.jpg",
+            "/Images/project-one-s5.jpg"
+        ],
+        "features": [
+            "Trending Movies and TV Series",
+            "Search Bar",
+            "Personalized Recommendations",
+            "Detailed Information",
+            "YouTube Trailers",
+            "Inbuilt Playback",
+            "Favorites",
+            "User Profiles and Avatars",
+            "Blogs Section"
+        ]
+    },
+    {
+        "id": "project3",
+        "demolink": "",
+        "title": "Food Order App",
+        "quote": "A Flutter Project for Food Ordering",
+        "image": "/Images/project-five.png",
+        "modelimage": "/Images/project-five.png",
+        "shortdescription": "A Flutter Project for Food Ordering",
+        "description": "This is a simple project in which you can order food. Initially, there are only some food items that you can order. However, with time, it will be updated to show many food items with high resolution and will constantly be updated.",
+        "githubLink": "https://github.com/niranjandahal/Food_order_app",
+        "videoLink": "OGWJLpCwLSA",
+        "screenshots": [
+            "/Images/project-5-s1.jpg",
+            "/Images/project-5-s2.jpg",
+            "/Images/project-5-s3.jpg",
+            "/Images/project-5-s4.jpg",
+            "/Images/project-5-s5.jpg"
+        ],
+        "features": [
+            "Food Ordering",
+            "User-Contributed Food Items",
+            "Interactive and Informative Experience",
+            "Seamless Navigation",
+            "Spectacular Visuals and Audio"
+        ]
+    },
+    {
+        "id": "project4",
+        "demolink": "",
+        "title": "VR Application",
+        "quote": "Explore Places Virtually",
+        "image": "/Images/project-two.png",
+        "modelimage": "/Images/project-two-model-images.png",
+        "shortdescription": "Explore and enjoy the beautiful places of Nepal",
+        "description": "This is a simple project in which you can explore places virtually. Initially, there are only some places in Nepal that you can explore. However, with time, it will be updated to show many places in VR with high resolution and will constantly be updated.",
+        "githubLink": "https://github.com/niranjandahal/VR_Application_Flutter",
+        "videoLink": "stOWEF2kBnE",
+        "screenshots": [
+            "/Images/project-two-s1.png",
+            "/Images/project-two-s2.jpg"
+        ],
+        "features": [
+            "360° View of Places in Nepal",
+            "User-Contributed Places",
+            "Curated and Validated Content",
+            "Interactive and Informative Experience",
+            "Seamless Navigation",
+            "Spectacular Visuals and Audio",
+            "Constant Updates and New Discoveries"
+        ]
+    },
+    {
+        "id": "project5",
+        "demolink": "",
+        "title": "Quiz App",
+        "quote": "A Flutter Project for Quizzes",
+        "image": "/Images/project-four.jpg",
+        "modelimage": "/Images/project-four.jpg",
+        "shortdescription": "A Flutter Project for Quizzes",
+        "description": "This is a quiz app project built using Flutter. It includes features such as user authentication, quiz categories, real-time answer verification, and quiz scores.",
+        "githubLink": "https://github.com/niranjandahal/QuizApp",
+        "videoLink": "z6DpM9JtNeU",
+        "screenshots": [
+            "/Images/project-4-s1.jpg",
+            "/Images/project-4-s2.jpg",
+            "/Images/project-4-s3.jpg",
+            "/Images/project-4-s4.jpg"
+        ],
+        "features": [
+            "User Authentication",
+            "Quiz Categories",
+            "Real-time Answer Verification",
+            "Quiz Scores"
+        ]
+    },
+    {
+        "id": "project6",
+        "demolink": "",
+        "title": "Ecommerce App",
+        "quote": "A Flutter Project for Ecommerce",
+        "image": "/Images/project-three.png",
+        "modelimage": "/Images/project-three.png",
+        "shortdescription": "A Flutter Project for Ecommerce",
+        "description": "This is an Ecommerce app project built using Flutter, with Firebase as the backend. The app includes features such as user authentication, product details, and the ability to add products to the cart. Data is fetched through a public API.",
+        "githubLink": "https://github.com/niranjandahal/EcommerceFirebase",
+        "videoLink": "-8R9qnpw__o",
+        "screenshots": [
+            "/Images/project-3-s1.jpg",
+            "/Images/project-3-s2.jpg",
+            "/Images/project-3-s3.jpg",
+            "/Images/project-3-s4.jpg",
+            "/Images/project-3-s5.jpg"
+        ],
+        "features": [
+            "User Authentication",
+            "Product Details",
+            "Add to Cart"
+        ]
+    }
+]
